@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá! Eu sou Geovani Andrade 👋
 
-<!--
-**Geovani-Andrade/Geovani-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise de Dados, interessado em transformar dados em informações que ajudem empresas a tomar melhores decisões.
 
-Here are some ideas to get you started:
+🎯 Objetivo profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolver minha carreira na área de Dados, começando com Análise de Dados e evoluindo para Engenharia de Dados.
+
+📚 Atualmente estudando
+
+* Análise de Dados
+* SQL e bancos de dados
+* Python
+* Excel
+* Power BI
+* Estatística aplicada
+
+💻 Tecnologias e ferramentas
+
+* SQL
+* Python
+* Microsoft Excel
+* Power BI
+
+📊 Projetos
+
+Em breve, publicarei meus projetos de análise de dados, bancos de dados e automação.
+
+📫 Contato
+
+* LinkedIn: em breve
